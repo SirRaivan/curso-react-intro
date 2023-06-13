@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?w=740&t=st=1686283513~exp=1686284113~hmac=88b17f80119893fadd71cd09be80dd845f6d08e3f57bf4c97cb1ff32b9882130");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
