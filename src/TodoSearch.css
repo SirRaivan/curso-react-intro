@@ -1,4 +1,12 @@
 input {
   display: flex;
   height: 25px;
+  background-color: white;
+  opacity: 0.5;
+  border-radius: 5px;
+}
+
+input:focus {
+  background-color: rgb(252, 221, 206);
+  outline: none;
 }
