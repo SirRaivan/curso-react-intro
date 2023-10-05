@@ -26,29 +26,3 @@ li {
   text-decoration: line-through;
 }
 
-.Icon {
-  cursor: pointer;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-weight: bold;
-}
-
-.Icon-check {
-  position: absolute;
-  left: 12px;
-}
-
-.Icon-check--active {
-  color: greenyellow;
-}
-
-.Icon-delete {
-  position: absolute;
-  top: -4px;
-  right: 1px;
-}
-
-.Icon-delete:hover {
-  color: red;
-}
